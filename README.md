@@ -28,8 +28,6 @@ Cloud‑Connected Core Network is a high‑scale Cisco Packet Tracer simulation 
 
     Security policies – ACLs, NAT rules, and inspection policies on the ASA
 
-    Note: The exact topology (router interconnections) is not fully shown in the image – the simulation file contains the complete layout.
-
 ## ✨ Features
 
     ✅ 569+ routers – massive routed core for scalability studies
